@@ -15,7 +15,9 @@ a look of neural network:
 
 
 
-![Screenshot 2024-05-08 161147.png](../_resources/Screenshot%202024-05-08%20161147-1.png)
+
+![Screenshot 2024-05-08 161147.png](./Screenshot%202024-05-08%20161147.png)
+
 
 
 
@@ -34,7 +36,7 @@ the maths behind this:
 
 
 
-![Screenshot 2024-05-08 161109.png](../_resources/Screenshot%202024-05-08%20161109-1.png)
+![Screenshot 2024-05-08 161109.png](./Screenshot%202024-05-08%20161109.png)
 
 
 
@@ -48,7 +50,7 @@ the maths behind this:
 
 
 
-![Screenshot 2024-05-08 173750.png](../_resources/Screenshot%202024-05-08%20173750-1.png)
+![Screenshot 2024-05-08 173750.png](./Screenshot%202024-05-08%20173750.png)
 
 
 
@@ -63,7 +65,7 @@ convolution of (ai) and (bi) is shown in the **image**
 
 
 
-![Screenshot 2024-05-08 173937.png](../_resources/Screenshot%202024-05-08%20173937-1.png)
+![Screenshot 2024-05-08 173937.png](./Screenshot%202024-05-08%20173937.png)
 
 
 
@@ -77,7 +79,7 @@ Another common example:
 
 
 
-![Screenshot 2024-05-08 174043.png](../_resources/Screenshot%202024-05-08%20174043-1.png)
+![Screenshot 2024-05-08 174043.png](./Screenshot%202024-05-08%20174043.png)
 
 
 
@@ -97,7 +99,7 @@ visualisation:
 
 
 
-![Screenshot 2024-05-08 174139.png](../_resources/Screenshot%202024-05-08%20174139-1.png)
+![Screenshot 2024-05-08 174139.png](./Screenshot%202024-05-08%20174139.png)
 
 
 
